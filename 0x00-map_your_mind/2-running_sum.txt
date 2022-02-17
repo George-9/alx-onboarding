@@ -1,0 +1,15 @@
+.........get list of nums.......
+list nums
+
+...........create a temp holder...........
+num temp
+
+......loop through nums.............
+for num in nums
+
+....check if num is negative......
+if num is less than 0
+continue
+
+temp = num + temp (add all nums to temp 
+
