@@ -1,0 +1,16 @@
+.............function for adding the squares of two numbers.
+
+.............get the numbers and if any is 0 return 0.
+
+add(num a, num b)
+if a = 0 or b = 0 
+print "num cannot be 0"
+
+else
+firstSquaredNum = a * a (square of a)
+secondSquaredNum = b * b (square b)
+
+find the total of their squares
+
+total = firstSquaredNum + secondSquaredNum
+
