@@ -1,0 +1,23 @@
+.................function for sortinh three numbers..........
+...................get nums........................
+
+f = input one
+s = input two
+t = input three
+
+...................create a holder for number and list of sorted numbers....................
+container h
+
+if f is greater than s and t
+h add f a first
+if s is greater than f and t
+h add add s first
+if t is greater than f and s
+h add a first
+
+if f is greater than s but less than t
+container add f sec
+if s is greater f but less than t
+container add s sec
+if t is greater than f but less than s
+contaner add t last
